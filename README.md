@@ -35,4 +35,9 @@ Use timezone() Use like this.
     var yourtimezone=timezone()
     
 ----
+## How to install Hyper.js?
+Insert tag like this on your HTML document.
+
+    <script src="https://raw.githack.com/lucas7234/hyperjs/main/hyperjs.js"></script>
+
 # Enjoy using! Like this project and download this to make your document convenient.
